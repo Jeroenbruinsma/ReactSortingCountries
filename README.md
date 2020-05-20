@@ -9,14 +9,14 @@ Morning:
 * Try to make a cool app! < never done>
 
 After lunch: 
-* change all the country objects so it includes an id and patients
-* store the new array with object in the countries UseState
-* Display the amount of corona patients in the Country component
-* Make the button work
-* Pass a callback down from the parent to the child component
-    #Parent component: Countries
+* change all the country objects so it includes an id and patients<counter> <done>
+* store the new array with object in the countries UseState  <done>
+* Display the amount of corona patients in the Country component <done>
+* Make the button work  <done>
+* Pass a callback down from the parent to the child component <done>
+    #Parent component: Countries 
     #Child component: Country
-* Console.log everything! 
-* Make the logic work for updating the amount of patients
-* Celebrate victory!
+* Console.log everything! <I think i do this?>
+* Make the logic work for updating the amount of patients <done>
+* Celebrate victory! <done>
      
