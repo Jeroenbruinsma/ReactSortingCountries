@@ -5,18 +5,18 @@ Morning:
 React routing
     Make an extra component
 
-    useState
-    UseEffect
-    async/await
-    try/catch
-    callbacks
-    destructuring
+    useState   done
+    UseEffect   done
+    try/catch  done
+    callbacks done
+    destructuring done
 
 
 Afternoon 13:30:
     dynamic routing
     address bar as a state
 
+    async/await  
 
 1730:
     Play a game! (Johan)
