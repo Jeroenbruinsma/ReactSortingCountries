@@ -1,4 +1,31 @@
 
+
+### `Plan for today:`
+Morning:
+React routing
+    Make an extra component
+
+    useState
+    UseEffect
+    async/await
+    try/catch
+    callbacks
+    destructuring
+
+
+Afternoon 13:30:
+    dynamic routing
+    address bar as a state
+
+
+1730:
+    Play a game! (Johan)
+
+
+
+
+
+
 ### `Plan for today:`
 Morning:
 
